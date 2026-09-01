@@ -1,15 +1,11 @@
-# Senior Project Practice
+# Student Developer Profile
 
-The purpose of this assignment is to make sure every student can independently complete the basic Git/GitHub workflow that will be used during Senior Project.
+**Name:** Mason Brogden
 
-This is an **individual, in-class assignment** designed to be completed in approximately **60 minutes**.
+**Technology Interest:** AI/ML
 
-By the end of the exercise, you should be able to:
+**Senior Project Skill Goal:** Collaboration
 
-- create a GitHub repository
-- clone the repository
-- create a branch
-- modify code
-- commit and push changes
-- create a Pull Request
-- merge your work into the main branch
+## Development Workflow
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
